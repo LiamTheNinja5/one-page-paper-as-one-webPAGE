@@ -3,7 +3,7 @@ Dynmap: http://142.44.255.134:8021/
 
 
 JAVA IP: liamtheninja5.my.pebble.host
-![javajoin](Liams-Server/images/javaw_HwZ6PRpoQE.png)
+![javajoin](Liams-Server/docs/assets/javaw_HwZ6PRpoQE.png)
 
 BEDROCK IP: liamtheninja5.my.pebble.host BEDROCK PORT: 25580
 ![BRjoin](LLiams-Server/docs/assets/ApplicationFrameHost_okL7oGBdgv.png)
