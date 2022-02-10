@@ -6,7 +6,7 @@ JAVA IP: liamtheninja5.my.pebble.host
 ![javajoin](Liams-Server/images/javaw_HwZ6PRpoQE.png)
 
 BEDROCK IP: liamtheninja5.my.pebble.host BEDROCK PORT: 25580
-![BRjoin](Liams-Server/images/ApplicationFrameHost_okL7oGBdgv.png)
+![BRjoin](LLiams-Server/docs/assets/ApplicationFrameHost_okL7oGBdgv.png)
 
 
 
