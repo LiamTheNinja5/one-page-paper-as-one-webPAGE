@@ -15,6 +15,10 @@ if you are on console you can join but you havft to change a wifi setting here i
 <a href="https://www.youtube.com/watch?v=NWmM08M4jPs&t=161s"> https://www.youtube.com/watch?v=NWmM08M4jPs&t=161s </a> 
 
 
+discord(for voice)
+<a href="https://discord.gg/ZgPDGR2s"> https://discord.gg/ZgPDGR2 </a> 
+
+
 
 
 
