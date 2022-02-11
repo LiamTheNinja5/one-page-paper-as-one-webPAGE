@@ -5,7 +5,7 @@ Dynmap: https://tinyurl.com/NVdynmap
 JAVA IP: liamtheninja5.my.pebble.host
 
 BEDROCK IP: liamtheninja5.my.pebble.host 
-#BEDROCK PORT: 25580
+BEDROCK PORT: 25580
 
 This server uses GeyserMC and Floodgate plugins to provide cross play for every verision of minecraft. So no matter waht verision you have you can join.
 
