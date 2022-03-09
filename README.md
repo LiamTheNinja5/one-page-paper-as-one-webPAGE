@@ -15,7 +15,7 @@ For somepeople it might just be more effective to do something elce
 
 
 # Rick Astley wont stop distracting everyone with his stupid song
-![image](/docs/assets/download.gif)(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![image](/docs/assets/download.gif)
 
 
 
