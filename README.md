@@ -33,7 +33,6 @@ For somepeople it might just be more effective to do something else
 ![image](/docs/assets/download.gif)
 ![image](/docs/assets/download.gif)
 ![image](/docs/assets/download.gif)
-
 ![image](/docs/assets/download.gif)
 ![image](/docs/assets/download.gif)
 ![image](/docs/assets/download.gif)
